@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Olaleye Paul Tobi</string>
+    <string name="bio">Hi there, my name is Olaleye Paul Tobi.  I am a graphic designer, with an experience of more than 5years in designing. I’m passionate about branding designs, professional logo, to illustrations… I’m proficient with Adobe design suite like Photoshop, Illustrator and Adobe XD also with additional tools like CorelDraw suite which I used the earliest.
+ I tried as much as possible to squeeze some of my works into the portfolio section, kindly check them out. Yes, I recently opened a freelance account in a way to further monetize my graphic skills… I have a bachelor’s degree in computer engineering while in college and recently started training on android development too. Hoping to add that to my skill set soon.
+ I will be looking forward to working with you. Please, note that works can be revised until you are satisfied. Working with you will be fun, I believe. Kindly help me to make both of us happy. Thanks.
+</string>
+    <string name="what_is_your_nickname">what is your nickname</string>
+    <string name="done">Done</string>
+</resources>
